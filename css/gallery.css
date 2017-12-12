@@ -1,0 +1,23 @@
+h1 {
+	color: white;
+	text-align: center;
+	text-shadow: blue;
+}
+
+
+
+body {
+    background-color: #000000;
+
+}
+
+
+#images{
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	color: white;
+	border: 3px solid purple; 
+}

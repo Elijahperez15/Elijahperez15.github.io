@@ -1,0 +1,17 @@
+body {
+	background-color: #000000;
+}
+
+
+h1 {
+	color: white;
+}
+
+h3 {
+	 color: white;
+	 border: 3px solid purple;
+} 
+
+#pic2 {
+	display: inline-block;
+}
